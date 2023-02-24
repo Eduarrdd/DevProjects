@@ -1,0 +1,33 @@
+img {
+    height: 300px;
+    width: 230px;
+}
+
+.cv {
+    height: auto;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+
+
+.information {
+    background-color: #2A5978;
+    color: rgb(255, 255, 255);
+    width: 350px;
+    padding-left: 25px;
+}
+
+.content {
+    width: 550px;
+    padding-left: 25px;
+}
+
+.colorName {
+    color: #2A5978;
+    font-size: xx-large;
+}
+.sizeName {
+    font-size: xx-large;
+    margin-top: -20px;
+}
